@@ -11,7 +11,7 @@
 ## Version History
 | Date | Status | Author | Reviewer | Change | Commit |
 | --- | --- | --- | --- | --- | --- |
-| 2026-11-15 | Accepted | Jens Tirsvad Nielsen | AI as stand-in for S02 | Initial version; accepted with the Go verdict of the review record (autonomous, not independent) | pending |
+| 2026-11-15 | Accepted | Jens Tirsvad Nielsen | AI as stand-in for S02 | Initial version; accepted with the Go verdict of the review record (autonomous, not independent) | [4bd0313] |
 
 ---
 
@@ -137,3 +137,4 @@ Proceed. The cost is small, the risk is low and the benefit is a documented, rev
 ---
 
 [SA-001]: ./stakeholder-analysis.md
+[4bd0313]: https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/012-guess-the-number/commit/4bd03137e16222ba7fa073ed62130111aed8582c
