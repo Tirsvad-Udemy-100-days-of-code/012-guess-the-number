@@ -8,8 +8,15 @@ version = "0.1.0"
 description = "Number Guessing Game - Udemy 100 Days of Code, day 12."
 readme = "README.md"
 requires-python = ">=3.13"
-license = { file = "LICENSE" }
+license = "AGPL-3.0-or-later"
+license-files = ["LICENSE"]
+authors = [{ name = "Jens Tirsvad Nielsen" }]
 dependencies = []
+
+[project.urls]
+Repository = "https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/012-guess-the-number"
+Documentation = "https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/012-guess-the-number/wiki"
+"Issue tracker" = "https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/012-guess-the-number/issues"
 
 [project.optional-dependencies]
 dev = ["pytest>=8"]

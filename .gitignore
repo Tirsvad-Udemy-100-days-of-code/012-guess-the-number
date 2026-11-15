@@ -175,3 +175,6 @@ cython_debug/
 .pypirc
 
 docs/build/
+
+# AI prompt log (the repository is public)
+/docs/ai-prompts/
